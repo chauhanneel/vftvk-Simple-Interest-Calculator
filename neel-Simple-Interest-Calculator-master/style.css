@@ -1,0 +1,15 @@
+*{
+	border-radius: 25px;
+}
+body {background-color:white;
+      align:center;
+}
+div.maindiv
+{
+	position:absolute;
+    top:30%;
+	left:35%;
+	display: block;
+}
+
+
